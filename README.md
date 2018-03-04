@@ -26,7 +26,7 @@ email lists, wiki or IRC channel at http://activemq.apache.org/
 Please help us make Apache ActiveMQ better - we appreciate any feedback 
 you may have.
 
-Enjoy!
+Enjoy!!
 
 Licensing
 =======================================================================
